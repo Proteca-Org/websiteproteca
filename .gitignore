@@ -1,0 +1,4 @@
+# Ad arquivos e pastas que o Git deve ignorar
+
+wp-config.php
+

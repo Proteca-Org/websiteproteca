@@ -1,0 +1,11 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-Eduardo.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 26 17:37:10.465023 2025] [mpm_event:notice] [pid 61789:tid 4477879808] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Oct 26 17:37:10.465508 2025] [core:notice] [pid 61789:tid 4477879808] AH00094: Command line: '/Users/eduardocalazans/Library/Application Support/Local/lightning-services/apache-2.4.43+11/bin/darwin/bin/httpd -D FOREGROUND -f /Users/eduardocalazans/Library/Application Support/Local/run/hklcgutwB/conf/apache/apache2.conf'
+[Sat Nov 01 00:46:56.393554 2025] [mpm_event:notice] [pid 61789:tid 4477879808] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-Eduardo.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Nov 01 11:32:10.278831 2025] [mpm_event:notice] [pid 1083:tid 4496504320] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Nov 01 11:32:10.279360 2025] [core:notice] [pid 1083:tid 4496504320] AH00094: Command line: '/Users/eduardocalazans/Library/Application Support/Local/lightning-services/apache-2.4.43+11/bin/darwin/bin/httpd -D FOREGROUND -f /Users/eduardocalazans/Library/Application Support/Local/run/hklcgutwB/conf/apache/apache2.conf'
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using MacBook-Pro-de-Eduardo.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 04 10:42:09.872698 2025] [core:warn] [pid 930:tid 4591060480] AH00098: pid file /Users/eduardocalazans/Library/Application Support/Local/run/hklcgutwB/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 04 10:42:09.881242 2025] [mpm_event:notice] [pid 930:tid 4591060480] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Nov 04 10:42:09.881309 2025] [core:notice] [pid 930:tid 4591060480] AH00094: Command line: '/Users/eduardocalazans/Library/Application Support/Local/lightning-services/apache-2.4.43+11/bin/darwin/bin/httpd -D FOREGROUND -f /Users/eduardocalazans/Library/Application Support/Local/run/hklcgutwB/conf/apache/apache2.conf'

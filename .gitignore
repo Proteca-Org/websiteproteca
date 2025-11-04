@@ -1,4 +1,23 @@
-# Ad arquivos e pastas que o Git deve ignorar
+# WordPress & LocalWP Ignored Files
 
+# WordPress Core (Files that are safe to ignore)
 wp-config.php
+wp-content/debug.log
+wp-content/backups/
+wp-content/upgrade/
+wp-content/ai1wm-backups/ # All in One WP Migration backups
 
+# Standard OS & Environment Files
+.DS_Store
+.vscode/
+Thumbs.db
+node_modules/
+npm-debug.log
+
+# LocalWP/Dev Environment Specific (Crucial for LocalWP)
+# LocalWP stores its configuration here
+.localwp/
+.idea/
+
+# Media Uploads (Usually too large for Git and should be ignored)
+wp-content/uploads/

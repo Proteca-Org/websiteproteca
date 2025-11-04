@@ -1,6 +1,8 @@
 # WordPress & LocalWP Ignored Files
 
 # WordPress Core (Files that are safe to ignore)
+wp-admin/
+wp-includes/
 wp-config.php
 wp-content/debug.log
 wp-content/backups/
